@@ -1,0 +1,25 @@
+# ── Core scientific stack ──────────────────────────────────────────────────────
+numpy
+pandas
+scipy
+scikit-learn
+requests
+
+# ── HuggingFace ────────────────────────────────────────────────────────────────
+transformers
+accelerate
+datasets
+
+# ── Psycholinguistic features ──────────────────────────────────────────────────
+empath
+
+# ── HTML/XML parsing (used by arXiv fetcher) ──────────────────────────────────
+beautifulsoup4
+lxml
+
+# ── Jupyter ────────────────────────────────────────────────────────────────────
+jupyterlab
+ipywidgets
+
+# NOTE: PyTorch must be installed separately to match your CUDA version.
+# See SETUP.md for the exact command.
